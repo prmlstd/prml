@@ -4,7 +4,7 @@
 
 ## Link
 
-- [http://norman3.github.io/prml](http://norman3.github.io/prml)
+- [http://prmlstd.github.io/prml](http://prmlstd.github.io/prml)
 
 
 
