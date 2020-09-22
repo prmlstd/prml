@@ -1,13 +1,13 @@
 # Site settings
 title: PRML
 
-email: "swear013@gmail.com"
-url: "http://norman3.github.io"
-github_url: "http://github.com/norman3/prml"
+email: "dapone21@gmail.com"
+url: "http://prmlstd.github.io"
+github_url: "http://github.com/prmlstd/prml"
 github_editurl: "/blob/gh-pages"
-github_profile: "http://github.com/norman3"
+github_profile: "http://github.com/prmlstd"
 baseurl: "/prml"
-disqus_shortname: norman3github
+disqus_shortname: prmlstdgithub
 
 exclude:
   - README.md
